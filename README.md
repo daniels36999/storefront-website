@@ -1,20 +1,49 @@
-# Páguina Web: Proyecto 2
+# Tienda Online – Proyecto Web (Front-End)
 
-**Descripción del Proyecto:**  
-* Este proyecto consiste en una página web simple desarrollada utilizando HTML y CSS. La interfaz básica demuestra el uso de etiquetas HTML para estructurar el contenido y hojas de estilo CSS para mejorar la presentación. La página incluye elementos estáticos y básicos de diseño, proporcionando una introducción práctica al desarrollo web con tecnologías fundamentales.
+Una página web simple de tipo “tienda online ficticia”, creada con HTML, CSS y JavaScript.  
+Perfecta para practicar maquetación, estilos y estructura de una página comercial básica.
 
-* Ademas, Este proyecto es una tienda online ficticia llamada "Tienda Online". Está construida utilizando HTML y CSS para mostrar una serie de productos de manera atractiva y accesible. A continuación se presenta una descripción detallada de los elementos y funcionalidades implementadas en este proyecto.
+---
 
-**Características Destacadas:**  
-* Estructura HTML para organizar el contenido.
-* Estilización con CSS para mejorar la presentación visual.
-* Página web básica para comprender los conceptos fundamentales.
+## 📋 Tabla de contenidos
 
-**Instrucciones de Uso:**  
-* Clona este repositorio: git clone https://github.com/daniels36999/PaguinaWeb_Proyecto_2.git 
-* Abre el archivo index.html en tu navegador.
+- [Descripción](#descripción)  
+- [Demo](#demo)  
+- [Tecnologías](#tecnologías)  
+- [Instalación / Uso](#instalación--uso)  
+- [Estructura del Proyecto](#estructura-del-proyecto)  
+- [Capturas / Vista previa](#capturas--vista-previa)  
+- [Estado del proyecto](#estado-del-proyecto)  
+- [Autores / Licencia](#autores--licencia)  
 
-**Tecnologías Utilizadas:**  
-* HTML  
-* CSS
-* JS
+---
+
+## 🧠 Descripción
+
+Este proyecto representa una tienda online ficticia, con una interfaz estática donde se muestran productos, una navegación simple, estilo visual básico y estructura HTML/CSS fundamental.  
+La idea es demostrar conocimientos de front-end: maquetación, estilos responsivos (si aplicas), y uso de JavaScript (si corresponde) para interactividad.  
+
+Ideal como práctica o plantilla base para aprender desarrollo web “from scratch”.
+
+---
+
+## 🔗 Demo
+
+Puedes ver el sitio publicado en GitHub Pages:  
+[https://daniels36999.github.io/PaguinaWeb_Proyecto_2/](https://daniels36999.github.io/PaguinaWeb_Proyecto_2/)  
+
+---
+
+## 🛠️ Tecnologías usadas
+
+- HTML5  
+- CSS3  
+- JavaScript (opcional / si existe interactividad)  
+
+---
+
+## 🚀 Instalación y uso local
+
+1. Clona este repositorio  
+   ```bash
+   git clone https://github.com/daniels36999/PaguinaWeb_Proyecto_2.git
