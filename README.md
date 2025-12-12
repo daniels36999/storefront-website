@@ -30,7 +30,7 @@ Ideal como práctica o plantilla base para aprender desarrollo web “from scrat
 ## 🔗 Demo
 
 Puedes ver el sitio publicado en GitHub Pages:  
-[https://daniels36999.github.io/PaguinaWeb_Proyecto_2/](https://daniels36999.github.io/PaguinaWeb_Proyecto_2/)  
+[https://daniels36999.github.io/storefront-website/](https://daniels36999.github.io/storefront-website/)  
 
 ---
 
@@ -46,4 +46,4 @@ Puedes ver el sitio publicado en GitHub Pages:
 
 1. Clona este repositorio  
    ```bash
-   git clone https://github.com/daniels36999/PaguinaWeb_Proyecto_2.git
+   git clone https://github.com/daniels36999/storefront-website.git
